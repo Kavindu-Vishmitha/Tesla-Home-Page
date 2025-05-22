@@ -23,5 +23,5 @@ This project is a front-end implementation of Tesla’s home page. It includes a
 
 ### 📷 Preview
 
-
+![image alt](https://github.com/Kavindu-Vishmitha/Tesla-Home-Page/blob/91af9fcd2e11fd814218b212f215e5606c5c0d56/screenshot/Tesla%20Page.png)
 
